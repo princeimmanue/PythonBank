@@ -4,15 +4,6 @@ This is a simple Python bank project created by Prince Immanuel. It offers basic
 
 ## Project Description
 
-bank-project/
-│
-├── bank.py
-├── balance.py
-├── emblem.py
-├── menu.py
-├── transfer.py
-└── README.md
-
 - **bank.py**: This is the main Python script for the bank project. It imports functions from other files and serves as the entry point for the application.
 
 - **balance.py**: Contains functions related to managing account balances.
@@ -32,6 +23,14 @@ To run the project, follow these steps:
    ```shell
    git clone https://github.com/your-username/bank-project.git
 
-   
+
+bank-project/
+│
+├── bank.py
+├── balance.py
+├── emblem.py
+├── menu.py
+├── transfer.py
+└── README.md
 
 

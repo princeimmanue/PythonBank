@@ -41,5 +41,5 @@ def menulist():
         return cont()
     else:
         print("Thank you for using our bank...")
-        time.sleep()
+        time.sleep(0.5)
         exit()
